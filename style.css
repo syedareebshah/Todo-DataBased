@@ -1,0 +1,35 @@
+body{
+    text-align: center;
+    background-image: url(Back.jpg);
+    background-repeat: repeat;
+    background-size: cover;
+}
+input{
+    font-size: 18px;
+    border-radius: 10px;
+    padding: 7px;
+}
+.btn1{
+    font-size: 18px;
+    margin: 10px;
+    padding: 5px;
+    border-radius: 10px;
+    background: transparent;
+    border: 1px solid rgb(228, 89, 89);
+    color: rgb(221, 53, 53);
+}
+.btn{
+    margin: 5px;
+    padding: 5px;
+    background: transparent;
+    border-radius: 8px;
+    border: 1px solid rgb(228, 89, 89);
+    color: rgb(221, 53, 53);
+}
+button:hover{
+    cursor: pointer;
+}
+.todo-list{
+    font-size: 26px;
+    list-style-type: none;
+}
